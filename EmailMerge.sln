@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailMerge", "EmailMerge\EmailMerge.csproj", "{787ADA42-331B-4D7A-BF81-D59D18829A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeProgram", "MergeProgram\MergeProgram.csproj", "{5726FCB6-954F-4E2F-BD52-B47AB6567F73}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://checkscum.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EmailMerge\\EmailMerge.csproj
+		SccProjectName1 = EmailMerge
+		SccLocalPath1 = EmailMerge
+		SccProjectUniqueName2 = MergeProgram\\MergeProgram.csproj
+		SccProjectName2 = MergeProgram
+		SccLocalPath2 = MergeProgram
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787ADA42-331B-4D7A-BF81-D59D18829A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787ADA42-331B-4D7A-BF81-D59D18829A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787ADA42-331B-4D7A-BF81-D59D18829A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787ADA42-331B-4D7A-BF81-D59D18829A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5726FCB6-954F-4E2F-BD52-B47AB6567F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5726FCB6-954F-4E2F-BD52-B47AB6567F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5726FCB6-954F-4E2F-BD52-B47AB6567F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5726FCB6-954F-4E2F-BD52-B47AB6567F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
